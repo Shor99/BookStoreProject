@@ -1,5 +1,15 @@
-Change in BookProj>appsetting>"BookFilePath": "put here book.xml path"
+How to Start The Project
 
-Run the project with command "dotnet watch run"
+*Change in BookProject>appsetting>"BookFilePath": "put here book.xml path"
 
-and all the CRUD options are there
+*Run the project with command "dotnet watch run"
+
+*and all the CRUD options are there
+
+the project get an xml file in BookProject>appsetting>"BookFilePath"
+and in localhost:<port>/swagger you can:
+
+*get all book list
+*update a book
+*delete a book
+*export an html file that contain the list
