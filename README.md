@@ -6,6 +6,8 @@ How to Start The Project
 
 *and all the CRUD options are there
 
+How it Works:
+
 the project get an xml file in BookProject>appsetting>"BookFilePath"
 and in localhost:<port>/swagger you can:
 
