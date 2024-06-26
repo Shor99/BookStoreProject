@@ -1,6 +1,6 @@
 How to Start The Project
 
-*Change in BookProject>appsetting>"BookFilePath": "put here book.xml path"
+*Change in BookProject>appsetting>"BookFilePath": "C:\\Put\\your\\path\\book.xml"
 
 *Run the project with command "dotnet watch run"
 
